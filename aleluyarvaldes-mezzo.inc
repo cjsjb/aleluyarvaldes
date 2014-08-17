@@ -15,7 +15,7 @@
 
 		% intro
 		R1  |
-		r4 g' fis' 2  |
+		g' 2 fis'  |
 		e' 4. dis' 8 ~ dis' 2  |
 		R1  |
 %% 5

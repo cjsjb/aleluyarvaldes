@@ -26,9 +26,9 @@
 		r4 d g d  |
 %% 10
 		fis 2. r8 e 16 d  |
-		e 1  |
-		d 2. r4  |
-		r2 e 8 fis g e  |
+		e 1 (
+		d 2 b, 4 d )  |
+		b, 4 r e 8 fis g e  |
 		r2 e 8 fis g e  |
 %% 15
 		r2 e 8 fis g e  |
@@ -44,9 +44,8 @@
 		a -- le -- lu -- ya, a -- le -- lu -- ya,
 
 		% segunda parte
-		A -- le -- lu -- ya,
 		a -- le -- lu -- ya,
-		a -- le -- lu -- ya.
+		a -- le -- lu __ ya.
 
 		% finale
 		A -- le -- lu -- ya.
