@@ -27,7 +27,7 @@
 %% 10
 		fis 2. r8 e 16 d  |
 		e 1 (
-		d 2 b, 4 d )  |
+		d 1 )  |
 		b, 4 r e 8 fis g e  |
 		r2 e 8 fis g e  |
 %% 15
