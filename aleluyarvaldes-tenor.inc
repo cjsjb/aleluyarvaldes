@@ -16,17 +16,17 @@
 		% intro
 		R1  |
 		e 2 d  |
-		c 4. b, 8 ~ b, 4 r  |
+		c 4. b, r4  |
 		e 8 e e e b 4 b 8 a ~  |
 %% 5
 		a 2 r  |
 		e 2 d  |
-		c 4. b, 8 ~ b, 4 r  |
+		c 4. b, r4  |
 		e 8 e e e d d d d  |
 		r4 d g d  |
 %% 10
 		fis 2. r8 e 16 d  |
-		e 1 (
+		e 1 (  |
 		d 1 )  |
 		b, 4 r e 8 fis g e  |
 		r2 e 8 fis g e  |
@@ -40,7 +40,7 @@
 		% primera parte
 		A -- le -- lu -- ya,
 		a -- le -- lu -- "ya, a" le -- lu -- ya. __
-		A -- le -- lu -- ya, __
+		A -- le -- lu -- ya,
 		a -- le -- lu -- ya, a -- le -- lu -- ya,
 
 		% segunda parte
