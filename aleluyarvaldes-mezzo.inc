@@ -16,18 +16,17 @@
 		% intro
 		R1  |
 		g' 2 fis'  |
-		e' 4. dis' 8 ~ dis' 2  |
+		e' 4. dis' r4  |
 		R1  |
 %% 5
-		r2 \times 2/3 { d' 4 e' fis' }  |
+		r2 \times 2/3 { dis' 4 e' fis' }  |
 		g' 2 fis'  |
-		e' 4. dis' 4 r8 r4  |
+		e' 4. dis' r4  |
 		r2 r4 g' 8 a'  |
 		b' 4 b' 2 a' 8 g'  |
 %% 10
 		a' 4 a' 2 r8 g' 16 fis'  |
 		g' 1 (
-		% warning: overlong bar truncated here |
 		fis' 2 d' 4 fis' )  |
 		e' 4 e' 8 fis' g' e' r4  |
 		r4 e' 8 fis' g' e' r4  |
