@@ -16,12 +16,12 @@
 		% intro
 		R1  |
 		e' 8 e' e' 4 fis' 8 fis' fis' 4  |
-		g' 8 fis' e' fis' 4 r8 e' fis'  |
+		g' 8 fis' e' fis' 4. e' 8 fis'  |
 		g' 8 e' r4 r2  |
 %% 5
 		R1  |
 		e' 8 e' e' 4 fis' 8 fis' fis' 4  |
-		g' 8 fis' e' fis' 4 r8 e' fis'  |
+		g' 8 fis' e' fis' 4. e' 8 fis'  |
 		g' 8 e' r4 r2  |
 		r4 g' 8 g' g' 4 g'  |
 %% 10
