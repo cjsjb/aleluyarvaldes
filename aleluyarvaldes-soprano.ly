@@ -5,7 +5,7 @@
 \header {
 	title = "Aleluya"
 	instrument = "Soprano"
-	composer = "Romeo Valdés"
+	composer = "Romeo Alfonso Valdés Villarreal"
 	tagline = "Coro Juvenil San Juan Bosco"
 }
 #(set-global-staff-size 20)

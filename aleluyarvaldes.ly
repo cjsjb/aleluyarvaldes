@@ -4,7 +4,7 @@
 #(ly:set-option 'point-and-click #f)
 \header {
 	title = "Aleluya"
-	composer = "Romeo Valdés"
+	composer = "Romeo Alfonso Valdés Villarreal"
 	tagline = "Coro Juvenil San Juan Bosco"
 }
 #(set-global-staff-size 20)
