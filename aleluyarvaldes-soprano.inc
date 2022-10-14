@@ -36,7 +36,7 @@
 		\bar "|."
 	} % Voice
 
-	\lyricsto "voz-soprano" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-soprano" {
 		% primera parte
 		A -- le -- lu -- "ya, a" -- le -- lu -- "ya, a" -- le -- lu -- ya, a -- le -- lu -- ya.
 		A -- le -- lu -- "ya, a" -- le -- lu -- "ya, a" -- le -- lu -- ya, a -- le -- lu -- ya.

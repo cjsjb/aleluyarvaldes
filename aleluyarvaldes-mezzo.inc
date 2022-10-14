@@ -36,7 +36,7 @@
 		\bar "|."
 	} % Voice
 
-	\lyricsto "voz-mezzo" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-mezzo" {
 		% primera parte
 		A -- le -- lu -- ya,
 		a -- le -- lu -- "ya, a" le -- lu -- ya.
